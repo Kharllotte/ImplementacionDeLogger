@@ -1,0 +1,108 @@
+2023-08-17T00:20:53.855Z [[32MINFO[39M]: [32mDB CONNECTED[39m
+2023-08-17T00:21:32.142Z [[32MINFO[39M]: [32mDB CONNECTED[39m
+2023-08-17T00:21:58.900Z [[31MERROR[39M]: [31mDB CONNECTED[39m
+2023-08-17T00:22:09.997Z [[32MINFO[39M]: [32mDB CONNECTED[39m
+2023-08-17T00:22:32.469Z [[32MINFO[39M]: [32mDB CONNECTED[39m
+2023-08-17T00:22:55.029Z [[32MINFO[39M]: [32mDB CONNECTED[39m
+2023-08-17T00:23:14.245Z [[32MINFO[39M]: [32mDB CONNECTED[39m
+2023-08-17T00:23:30.812Z [[32MINFO[39M]: [32mDB CONNECTED[39m
+2023-08-17T00:23:37.431Z [[32MINFO[39M]: [32mDB CONNECTED[39m
+2023-08-17T00:24:03.788Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T00:24:22.372Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T00:24:32.101Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T00:24:38.375Z [[31merror[39m]: [31mDB CONNECTED[39m
+2023-08-17T00:24:42.291Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T00:26:54.994Z [[32minfo[39m]: [32mError connecting to database[39m
+2023-08-17T00:26:55.009Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T00:27:22.725Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T00:27:22.740Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T00:27:33.283Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T00:27:33.301Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T00:30:36.966Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T00:30:36.981Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T00:30:51.874Z [[32minfo[39m]: [32mError connecting to database[39m
+2023-08-17T00:30:51.891Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T00:30:58.317Z [[33mwarning[39m]: [33mDB CONNECTED[39m
+2023-08-17T00:30:58.334Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T00:31:03.335Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T00:31:03.351Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T00:37:25.795Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T00:37:25.812Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T00:38:04.068Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T00:38:04.089Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T00:39:00.712Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T00:39:00.729Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T01:29:42.016Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T01:29:42.030Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T01:30:57.867Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T01:30:57.883Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T01:31:05.030Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T01:31:05.047Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T01:31:13.161Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T01:31:13.177Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T01:33:04.780Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T01:33:04.798Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T01:33:13.618Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T01:33:13.633Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T01:33:24.109Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T01:33:24.124Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T01:33:38.305Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T01:33:38.320Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T01:33:51.785Z [[32minfo[39m]: [32mDB CONNECTED[39m
+2023-08-17T01:33:51.803Z [[32minfo[39m]: [32mSERVER ON PORT: 5000[39m
+2023-08-17T01:34:16.018Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:34:17.867Z [[32minfo[39m]: [32mMessages get all successfull[39m
+2023-08-17T01:34:21.039Z [[32minfo[39m]: [32mMessage saved[39m
+2023-08-17T01:34:21.049Z [[32minfo[39m]: [32mMessages get all successfull[39m
+2023-08-17T01:34:24.728Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:34:24.752Z [[32minfo[39m]: [32mGet product[39m
+2023-08-17T01:34:24.756Z [[32minfo[39m]: [32mProduct saved in cart[39m
+2023-08-17T01:34:25.929Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:34:25.932Z [[32minfo[39m]: [32mGet product[39m
+2023-08-17T01:34:25.933Z [[32minfo[39m]: [32mProduct saved in cart[39m
+2023-08-17T01:34:27.039Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:34:27.042Z [[32minfo[39m]: [32mGet product[39m
+2023-08-17T01:34:27.043Z [[32minfo[39m]: [32mProduct saved in cart[39m
+2023-08-17T01:34:27.886Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:34:28.949Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:34:28.976Z [[32minfo[39m]: [32mGet Ticket[39m
+2023-08-17T01:34:28.990Z [[32minfo[39m]: [32mTicket saved[39m
+2023-08-17T01:34:28.993Z [[32minfo[39m]: [32mCart saved[39m
+2023-08-17T01:34:31.436Z [[32minfo[39m]: [32mCorreo electrónico enviado:[39m
+2023-08-17T01:34:32.712Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:34:35.223Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:34:35.226Z [[32minfo[39m]: [32mGet product[39m
+2023-08-17T01:34:35.227Z [[32minfo[39m]: [32mProduct saved in cart[39m
+2023-08-17T01:34:36.850Z [[32minfo[39m]: [32mGet product[39m
+2023-08-17T01:34:37.027Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:34:40.288Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:34:41.785Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:34:42.674Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:34:42.682Z [[32minfo[39m]: [32mGet Ticket[39m
+2023-08-17T01:34:42.686Z [[32minfo[39m]: [32mTicket saved[39m
+2023-08-17T01:34:42.689Z [[32minfo[39m]: [32mCart saved[39m
+2023-08-17T01:34:44.370Z [[32minfo[39m]: [32mCorreo electrónico enviado:[39m
+2023-08-17T01:34:45.426Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:35:14.686Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:35:16.625Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:35:16.628Z [[32minfo[39m]: [32mGet product[39m
+2023-08-17T01:35:16.630Z [[32minfo[39m]: [32mProduct saved in cart[39m
+2023-08-17T01:35:17.965Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:35:17.968Z [[32minfo[39m]: [32mGet product[39m
+2023-08-17T01:35:17.970Z [[32minfo[39m]: [32mProduct saved in cart[39m
+2023-08-17T01:35:18.903Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:35:19.814Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:35:19.822Z [[32minfo[39m]: [32mGet Ticket[39m
+2023-08-17T01:35:19.825Z [[32minfo[39m]: [32mTicket saved[39m
+2023-08-17T01:35:19.828Z [[32minfo[39m]: [32mCart saved[39m
+2023-08-17T01:35:21.492Z [[32minfo[39m]: [32mCorreo electrónico enviado:[39m
+2023-08-17T01:35:22.754Z [[32minfo[39m]: [32mGet cart[39m
+2023-08-17T01:35:25.314Z [[32minfo[39m]: [32mMessages get all successfull[39m
+2023-08-17T01:35:29.050Z [[32minfo[39m]: [32mMessage saved[39m
+2023-08-17T01:35:29.060Z [[32minfo[39m]: [32mMessages get all successfull[39m
+2023-08-17T01:35:42.442Z [[32minfo[39m]: [32mGet product[39m
+2023-08-17T01:35:46.213Z [[32minfo[39m]: [32mProduct updated[39m
+2023-08-17T01:35:50.292Z [[32minfo[39m]: [32mGet product[39m
+2023-08-17T01:35:52.695Z [[32minfo[39m]: [32mProduct updated[39m
+2023-08-17T01:36:14.182Z [[32minfo[39m]: [32mProduct saved[39m
+2023-08-17T01:36:16.725Z [[32minfo[39m]: [32mGet product[39m
